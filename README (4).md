@@ -160,10 +160,10 @@ After tuning, the **Gradient Boosting Regressor** achieved:
 ## Contact
 For questions, feedback, or collaboration opportunities, feel free to reach out:
 
-- **Name**: Muabbir Km  
-- **Email**: musabbirmushu@gmail.com 
-- **GitHub**: [musabbirkm](https://github.com/your-username)  
-- **LinkedIn**: [Musabbir Km](https://linkedin.com/in/MusabbirKm)
+- **Name**: Fathimath sahla p
+- **Email**: fathimathsahla570@gmail.com 
+- **GitHub**:  github.com/fathimasahla570
+- **LinkedIn**:linkedin.com/in/fathimath-sahla-p-8a073532aenver 
 
 
 
